@@ -15,12 +15,12 @@ A modern, responsive client management system built with PHP and MySQL.
 1. Make sure you have XAMPP installed on your system
 2. Clone this repository to your XAMPP's htdocs folder
 3. Start Apache and MySQL services from XAMPP Control Panel
-4. Access the application through your web browser at: `http://localhost/client-mgt`
+4. Access the application through your web browser at: `http://localhost/avon-sys`
 
 ## Default Login Credentials
 
-- Email: admin@admin.com
-- Password: admin123
+- Email: admin
+- Password: password
 
 ## Database Setup
 
