@@ -44,7 +44,3 @@ The database and required tables will be automatically created when you first ac
 - SQL Injection Prevention
 - Session Management
 - Input Validation
-
-## Contributing
-
-Feel free to fork this repository and submit pull requests for any improvements.
